@@ -1,14 +1,13 @@
 <?php
-/*
-$nome = "Hcode";
+$nome1 = "João";
 
-//echo $nome;
-$anoNascimento = 1990;
-*/
-$nomeCompleto = "";
+$sobrenome = "Rangel";
 
-$nome1 = "João"
+$nomecompleto = $nome1 ." ". $sobrenome ;
 
+echo $nomecompleto;
+
+echo "<br/>";
 
 
 
